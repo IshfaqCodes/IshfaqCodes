@@ -6,7 +6,7 @@
 
 📍 Bannu, Pakistan &nbsp;·&nbsp; 🟢 Open to AI/ML opportunities
 
-[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/ishfaqkhan1122)
+[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfaq%20Khan-0B0E14?style=for-the-badge&logo=linkedin&logoColor=4FD8C4)](https://www.linkedin.com/in/ishfaq-khan-814780316/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ishfaqkhankpk-0B0E14?style=for-the-badge&logo=kaggle&logoColor=F2A65A)](https://www.kaggle.com/ishfaqkhankpk)
 
@@ -128,7 +128,7 @@ NLP               ████
 **Let's build something.**
 Open to AI/ML roles, collaborations, and teaching opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/ishfaqkhan1122)
+[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfaq%20Khan-0B0E14?style=for-the-badge&logo=linkedin&logoColor=4FD8C4)](https://www.linkedin.com/in/ishfaq-khan-814780316/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ishfaqkhankpk-0B0E14?style=for-the-badge&logo=kaggle&logoColor=F2A65A)](https://www.kaggle.com/ishfaqkhankpk)
 
