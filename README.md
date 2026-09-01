@@ -6,7 +6,7 @@
 
 📍 Bannu, Pakistan &nbsp;·&nbsp; 🟢 Open to AI/ML opportunities
 
-[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-IshfaqCodes-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfaq%20Khan-0B0E14?style=for-the-badge&logo=linkedin&logoColor=4FD8C4)](https://www.linkedin.com/in/ishfaq-khan-814780316/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ishfaqkhankpk-0B0E14?style=for-the-badge&logo=kaggle&logoColor=F2A65A)](https://www.kaggle.com/ishfaqkhankpk)
 
@@ -81,28 +81,42 @@ I'm a BS Artificial Intelligence student at the **University of Science and Tech
 
 <br>
 
+# Certifications
+
+- 🏅 [Microsoft Certified: Power Platform Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ishfaqkhan-0913/8856EB3FF769DD8F?sharingId=719C90DEA3B314C1)
+- 🏅 [Advanced Python: Data Science, Testing, and Distribution](https://coursera.org/verify/LQK2MBE921AT)
+- 🏅 [AI Fundamentals](https://coursera.org/share/740ac5163402901d576fd8df8cebd31e)
+- 🏅 [What is Data Science](https://coursera.org/share/fccba68f2821771d3654b251989a9611)
+- 🏅 [Advanced Python: Object-Oriented Programming](https://coursera.org/share/8ce5aadf1f4c2fe1663b67ac0bc4d013)
+- 🏅 [Advanced Programming Techniques with Python Specialization Certificate](https://coursera.org/share/9cef0bc107dfb56017795124cdcd5691)
+
+<br>
+
 # Featured Projects
 
 <table>
 <tr>
-<td width="34%"><b><a href="https://github.com/ishfaqkhan1122">Titanic Survival Prediction</a></b><br><sub>Classification</sub></td>
-<td>Classification model predicting passenger survival from the Titanic dataset, covering feature engineering through evaluation.</td>
+<td width="34%"><b><a href="https://github.com/IshfaqCodes/heart_disease_pred_app">Heart Disease Prediction App</a></b><br><sub>ML · Health</sub></td>
+<td>Machine learning app that predicts heart disease risk from patient health data. <i>(repo link placeholder — update once pushed)</i></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/ishfaqkhan1122">Student Performance Prediction</a></b><br><sub>Regression</sub></td>
-<td>Regression pipeline predicting academic performance from student data, from cleaning to model comparison.</td>
+<td><b><a href="https://portfolio-learnflow3.vercel.app/">LearnFlow</a></b><br><sub>Web App</sub></td>
+<td>Learning-focused portfolio/project platform, live at portfolio-learnflow3.vercel.app.</td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/ishfaqkhan1122">Sales Data Analysis</a></b><br><sub>EDA</sub></td>
-<td>Exploratory analysis surfacing trends and insights from a sales dataset, with clear visual storytelling.</td>
+<td><b><a href="https://github.com/IshfaqCodes/Office_Record_System">Office Record System</a></b><br><sub>Python · SQLite · Desktop App</sub></td>
+<td>Full desktop office records app built in 5 phases: file/incoming/outgoing registers, advanced search, PDF/report generation, backup & restore, and admin user management with security lockouts. <i>(repo link placeholder — update once pushed)</i></td>
 </tr>
+</table>
+
+<br>
+
+# 🧩 Learning & Practice
+
+<table>
 <tr>
-<td><b><a href="https://github.com/ishfaqkhan1122">Cancer Patient EDA Workflow</a></b><br><sub>EDA · Bilingual</sub></td>
-<td>Complete 12-phase bilingual (English + Roman Urdu) exploratory workflow on a cancer patient dataset, from data understanding to conclusion.</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/ishfaqkhan1122">NawNews</a></b><br><sub>Web App</sub></td>
-<td>Self-contained news website built in a single HTML file, with JavaScript-powered publishing and filtering features.</td>
+<td width="34%"><b><a href="https://github.com/IshfaqCodes/master-python-through-coding/tree/main/OOP_Concept_Practice">OOP Concept Practice</a></b><br><sub>Python · OOP</sub></td>
+<td>Six focused scripts covering core OOP concepts: encapsulation (bank account), inheritance & overriding (school system), abstraction & polymorphism (vehicle rental), composition & mixins (RPG character), dunder methods (shopping cart), and classmethod/staticmethod (library book).</td>
 </tr>
 </table>
 
@@ -128,7 +142,7 @@ NLP               ████
 **Let's build something.**
 Open to AI/ML roles, collaborations, and teaching opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ishfaqkhan1122-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-IshfaqCodes-0B0E14?style=for-the-badge&logo=github&logoColor=4FD8C4)](https://github.com/IshfaqCodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfaq%20Khan-0B0E14?style=for-the-badge&logo=linkedin&logoColor=4FD8C4)](https://www.linkedin.com/in/ishfaq-khan-814780316/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ishfaqkhankpk-0B0E14?style=for-the-badge&logo=kaggle&logoColor=F2A65A)](https://www.kaggle.com/ishfaqkhankpk)
 
